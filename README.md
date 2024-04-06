@@ -1,1 +1,4 @@
 #El instructivo
+
+- La información
+
